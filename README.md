@@ -1,1 +1,2 @@
 # Industrial-hoist
+This project focuses on motor fault detection, utilizing a CNN network model and PID control. The execution method is as follows: In the MATLAB command line, type `openExample('deeplearning_shared/ClassifyMotorFaultsUsingDeepLearningExample')`. After execution, the necessary parameters are stored in the workspace. Then, you can run new1-6. Currently, the PID control model runs well, but CNN fault detection is not yet complete; this is the direction for future work.
